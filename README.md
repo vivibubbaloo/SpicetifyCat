@@ -12,6 +12,8 @@ This spicetify theme supports sub-themes with custom wallpapers and colors (and 
 
 🖌️ To make your own see [Contributing/Creating your own theme](./CONTRIBUTING.md#-creating-your-own-theme)
 
+🧩 Assets can be found in the [figma file](https://www.figma.com/design/ru57uXd34qikQkiIP47ILo/Spotify-Cat-Theme)
+
 # 🔧 Installation
 ## ⚙️ Automatic
 Install from [marketplace](https://github.com/spicetify/marketplace)
